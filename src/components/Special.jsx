@@ -5,7 +5,7 @@ import Card from 'react-bootstrap/Card';
 
 const Special = () => {
   return (
-    <div id="special" className=" special d-flex gap-4 mt-5">
+    <div id="special" className=" special d-flex flex-wrap justify-content-center gap-4 mt-5">
        <Card style={{ width: '18rem' }}>
        <img src="/card-one.jpg" alt="card"/>
       <Card.Body>
