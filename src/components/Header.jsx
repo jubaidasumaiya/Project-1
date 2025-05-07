@@ -9,7 +9,7 @@ const Header = () => {
       <Navbar expand="lg" className="bg_main">
         <Container>
           <Navbar.Brand href="#home">
-            <img src="/Project-1/logo-one.png" alt="logo" style={{width:'50px'}}/>
+            <img src="/logo-one.png" alt="logo" style={{width:'50px'}}/>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">

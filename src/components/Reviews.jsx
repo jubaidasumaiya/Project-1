@@ -4,19 +4,19 @@ import Card from 'react-bootstrap/Card';
 const reviews = [
     {
       name: "Amina Rahman",
-      image: "/Project-1/user-one.jpg",
+      image: "/user-one.jpg",
       rating: 5,
       comment: "The cheesy fries were heavenly — perfectly crispy with a creamy cheese blend. My new go-to snack!",
     },
     {
       name: "Fahim Khan",
-      image: "/Project-1/user-one.jpg",
+      image: "/user-one.jpg",
       rating: 4,
       comment: "The burger was juicy and bursting with flavor. Loved the toasted bun and rich sauces!",
     },
     {
       name: "Nusrat Jahan",
-      image: "/Project-1/user-one.jpg",
+      image: "/user-one.jpg",
       rating: 5,
       comment: "Cheesy garlic bread was absolutely delicious. Soft, buttery, and loaded with cheese — highly recommended!",
     },

@@ -6,31 +6,31 @@ import Button from 'react-bootstrap/Button';
       const menu = [
   {
     name: "Big Bite Burger",
-    image: "/Project-1/menu-one.jpg",
+    image: "/menu-one.jpg",
     price: "$5.99",
     description: "Juicy beef patty with melted cheese and signature sauce.",
   },
   {
     name: "Cheesy Garlic Bread",
-    image: "/Project-1/menu-two.jpg",
+    image: "/menu-two.jpg",
     price: "$3.49",
     description: "Toasted bread loaded with buttery garlic and cheese.",
   },
   {
     name: "Pepperoni Pizza",
-    image: "/Project-1/menu-three.jpg",
+    image: "/menu-three.jpg",
     price: "$7.99",
     description: "Thin crust pizza topped with pepperoni and mozzarella.",
   },
   {
     name: "Cheesy Fries",
-    image: "/Project-1/menu-four.jpg",
+    image: "/menu-four.jpg",
     price: "$4.49",
     description: "Crispy golden fries drenched in creamy cheese sauce.",
   },
   {
     name: "Chicken Sandwich",
-    image: "/Project-1/menu-five.jpg",
+    image: "/menu-five.jpg",
     price: "$6.25",
     description: "Grilled chicken, lettuce & mayo on a toasted bun.",
   },

@@ -11,7 +11,7 @@ function Hero() {
         <Button variant="warning" size="lg">Explore Menu</Button>
       </div>
       <div className="hero-img">
-        <img src="/Project-1/hero-one.jpg" alt="hero" />
+        <img src="/hero-one.jpg" alt="hero" />
       </div>
   </div>
   </div>

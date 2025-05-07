@@ -15,7 +15,7 @@ function About() {
           </p>
         </div>
         <div className="about-img">
-          <img src="/Project-1/about-one.png" alt="About us" className="img-fluid rounded" style={{ maxWidth: '450px' }} />
+          <img src="/about-one.png" alt="About us" className="img-fluid rounded" style={{ maxWidth: '450px' }} />
         </div>
       </div>
     </div>
